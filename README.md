@@ -19,8 +19,6 @@ Puis effectuez la commande suivante :
 ```shell
 go get gitlab.utc.fr/aguilber/ia04
 ```
-Voici le lien du projet si vous rencontrez des complications  :
-https://gitlab.utc.fr/aguilber/procedure-de-vote 
 
 ## Implémentation choisie
 
