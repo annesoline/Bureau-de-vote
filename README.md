@@ -1,4 +1,4 @@
-# procedure-de-vote
+# Bureau de vote
 
 UV : AI30 Systèmes Multi-Agents, 4ème année, Génie Informatique, UTC
 
